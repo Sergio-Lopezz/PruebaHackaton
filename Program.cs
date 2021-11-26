@@ -14,21 +14,23 @@ namespace ConsolaIMC
             peso_en_kg = double.Parse(Console.ReadLine());
             IMC = peso_en_kg / altura_en_m / altura_en_m;
             if (IMC < 16)
-                Console.WriteLine("Criterio de ingreso en hospital.");
-            if (IMC >= 16 && IMC < 17)
-                Console.WriteLine("Infrapeso.");
-            if (IMC >= 17 && IMC < 18)
-                Console.WriteLine("Bajo peso.");
-            if (IMC >= 18 && IMC < 25)
-                Console.WriteLine("Peso normal (saludable).");
-            if (IMC >= 25 && IMC < 30)
-                Console.WriteLine("Sobrepeso (obesidad de grado I).");
-            if (IMC >= 30 && IMC < 35)
-                Console.WriteLine("Sobrepeso cronico (obesidad de grado II).");
-            if (IMC >= 35 && IMC < 40)
-                Console.WriteLine("Obesidad premorbida (obesidad de grado III).");
-            if (IMC >= 40)
-                Console.WriteLine("Obesidad morbida (obesidad de grado IV).");
+                Console.WriteLine("Delgadez severa");
+            if (IMC >= 16 && IMC < 16.99)
+                Console.WriteLine("Delgadez moderada");
+            if (IMC >= 17 && IMC < 18.49)
+                Console.WriteLine("Delgadez aceptable");
+            if (IMC >= 18.5 && IMC < 24.99)
+                Console.WriteLine("Peso normal.");
+            if (IMC >= 25 && IMC < 25.99)
+                Console.WriteLine("Sobrepeso.");
+            if (IMC >= 30 && IMC < 34.99)
+                Console.WriteLine("Obesidad tipo I.");
+            if (IMC >= 35 && IMC < 39.99)
+                Console.WriteLine("Obesidad tipo II.");
+            if (IMC >= 40 && IMC < 49.99)
+                Console.WriteLine("Obesidad tipo III o morbida.");
+            if (IMC > 50)
+                Console.WriteLine("Obesidad tipo IV o extrema.");
                 
             Console.WriteLine("Valor de IMC: " + IMC);
             Console.WriteLine();
