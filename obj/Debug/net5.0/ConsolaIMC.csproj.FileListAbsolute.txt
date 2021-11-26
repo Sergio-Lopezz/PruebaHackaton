@@ -1,0 +1,16 @@
+S:\Mision Tic\Ciclo#4\Hackaton\Calentamiento\ConsolaIMC\bin\Debug\net5.0\ConsolaIMC.exe
+S:\Mision Tic\Ciclo#4\Hackaton\Calentamiento\ConsolaIMC\bin\Debug\net5.0\ConsolaIMC.deps.json
+S:\Mision Tic\Ciclo#4\Hackaton\Calentamiento\ConsolaIMC\bin\Debug\net5.0\ConsolaIMC.runtimeconfig.json
+S:\Mision Tic\Ciclo#4\Hackaton\Calentamiento\ConsolaIMC\bin\Debug\net5.0\ConsolaIMC.runtimeconfig.dev.json
+S:\Mision Tic\Ciclo#4\Hackaton\Calentamiento\ConsolaIMC\bin\Debug\net5.0\ConsolaIMC.dll
+S:\Mision Tic\Ciclo#4\Hackaton\Calentamiento\ConsolaIMC\bin\Debug\net5.0\ref\ConsolaIMC.dll
+S:\Mision Tic\Ciclo#4\Hackaton\Calentamiento\ConsolaIMC\bin\Debug\net5.0\ConsolaIMC.pdb
+S:\Mision Tic\Ciclo#4\Hackaton\Calentamiento\ConsolaIMC\obj\Debug\net5.0\ConsolaIMC.csproj.AssemblyReference.cache
+S:\Mision Tic\Ciclo#4\Hackaton\Calentamiento\ConsolaIMC\obj\Debug\net5.0\ConsolaIMC.GeneratedMSBuildEditorConfig.editorconfig
+S:\Mision Tic\Ciclo#4\Hackaton\Calentamiento\ConsolaIMC\obj\Debug\net5.0\ConsolaIMC.AssemblyInfoInputs.cache
+S:\Mision Tic\Ciclo#4\Hackaton\Calentamiento\ConsolaIMC\obj\Debug\net5.0\ConsolaIMC.AssemblyInfo.cs
+S:\Mision Tic\Ciclo#4\Hackaton\Calentamiento\ConsolaIMC\obj\Debug\net5.0\ConsolaIMC.csproj.CoreCompileInputs.cache
+S:\Mision Tic\Ciclo#4\Hackaton\Calentamiento\ConsolaIMC\obj\Debug\net5.0\ConsolaIMC.dll
+S:\Mision Tic\Ciclo#4\Hackaton\Calentamiento\ConsolaIMC\obj\Debug\net5.0\ref\ConsolaIMC.dll
+S:\Mision Tic\Ciclo#4\Hackaton\Calentamiento\ConsolaIMC\obj\Debug\net5.0\ConsolaIMC.pdb
+S:\Mision Tic\Ciclo#4\Hackaton\Calentamiento\ConsolaIMC\obj\Debug\net5.0\ConsolaIMC.genruntimeconfig.cache
