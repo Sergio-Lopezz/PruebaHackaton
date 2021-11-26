@@ -21,7 +21,7 @@ namespace ConsolaIMC
                 Console.WriteLine("Bajo peso.");
             if (IMC >= 18 && IMC < 25)
                 Console.WriteLine("Peso normal (saludable).");
-            if (IMC >= 5 && IMC < 30)
+            if (IMC >= 25 && IMC < 30)
                 Console.WriteLine("Sobrepeso (obesidad de grado I).");
             if (IMC >= 30 && IMC < 35)
                 Console.WriteLine("Sobrepeso cronico (obesidad de grado II).");
@@ -29,6 +29,7 @@ namespace ConsolaIMC
                 Console.WriteLine("Obesidad premorbida (obesidad de grado III).");
             if (IMC >= 40)
                 Console.WriteLine("Obesidad morbida (obesidad de grado IV).");
+                
             Console.WriteLine("Valor de IMC: " + IMC);
             Console.WriteLine();
             Console.Write("Presiona una tecla para terminar . . . ");
